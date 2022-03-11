@@ -1,3 +1,18 @@
+:root {
+/* Основные шрифты */
+--main-font: "Roboto", sans-serif;
+--secondary-font: "Raleway", sans-serif;
+}
 
-.site-
+/* Common styles */
+body{
+font-family: "Roboto";
+font-size: 14px;
+line-height: 1.17;
+letter-spacing: 0.02em;
+color: #212121;
+}
 
+.list {list-style: none;}
+
+.link {text-decoration: none;}
